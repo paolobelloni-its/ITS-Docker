@@ -30,7 +30,7 @@ https://www.docker.com/products/docker-desktop/
 
 Clonare il repository GitHub corrente su Cloud shell. Attraverso questa operazione saranno scaricate 2 cartelle contenenti i file degli Esercizi 1 e 2.
 
-~$ git clone https://github.com/paolobelloni-its/ACA-docker.git
+~$ git clone https://github.com/paolobelloni-its/ITS-Docker.git
 
 ## Esercizio 2
 
