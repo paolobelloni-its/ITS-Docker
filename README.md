@@ -34,7 +34,7 @@ Clonare il repository GitHub corrente su Cloud shell. Attraverso questa operazio
 
 ## Esercizio 2
 
-~$ cd container-lab/LISTA
+~$ spostarsi nella cartella scaricata LISTA
 
 Il programma python (list.py) in questa cartella fa la lista dei file e delle cartelle presenti nella directory corrente.
 
@@ -100,7 +100,7 @@ per vedere i container sia in esecuzione che terminati.
 
 ## Esercizio 3
 
-~$ cd container-lab/API
+~$ spostarsi nella cartella scaricata API
 
 Il programma python (list.py) in questa cartella crea un web server (basato su UVICORN) che espone 3 Application Programming Interface sul localhost:
 / - indica che il server e' pronto ed in ascolto
